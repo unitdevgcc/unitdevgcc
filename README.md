@@ -15,7 +15,9 @@
 
 - Работаю в: `RS-MEDIA MYARENA.RU`
 - Фокус: low-level разработка, сетевые инструменты, Linux runtime, R&D
-- Пишу в основном на `C` и `Go`
+- Любимый язык `C` (tier 1), `Go` использую как tier 2, `Java` как tier 3
+- Также пишу на `Zig`, `TypeScript`, `Kotlin`, `JavaScript`, `FASM`, `NASM` (ассемблер редко, в основном в `hookline`) и `GLSL`
+- Люблю low-level и embedded разработку
 - Публичный профиль: [github.com/unitdevgcc](https://github.com/unitdevgcc)
 
 ## Чем занимаюсь
