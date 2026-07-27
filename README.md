@@ -13,7 +13,7 @@
 
 Привет. Я `Maxkrya` (`c0redev`, `unitdev`, `nullpointer`).
 
-- Работаю в: `RS-MEDIA MYARENA.RU`
+- Работал в : `RS-MEDIA MYARENA.RU, altpay, lendnodes. sundyhost`
 - Фокус: low-level разработка, сетевые инструменты, Linux runtime, R&D
 - Языки по приоритету:
   <img src="https://img.shields.io/badge/C-tier%201-00599C?style=flat-square&logo=c&logoColor=white" alt="C tier 1">
