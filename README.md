@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/NASM-555555?style=flat-square&logo=assemblyscript&logoColor=white" alt="NASM">
   <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="GLSL">
 - Люблю low-level и embedded разработку
-- Публичный профиль: [github.com/unitdevgcc](https://github.com/unitdevgcc)
+- im fag fox 
 
 ## Чем занимаюсь
 
