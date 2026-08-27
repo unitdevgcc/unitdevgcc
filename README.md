@@ -30,41 +30,9 @@
 - Люблю low-level и embedded разработку
 - im fag fox 
 
-## Чем занимаюсь
-
-- Пишу драйвера и низкоуровневую хуету
-- Делаю всякою всячену
-- Экспериментирую с сетевой инфраструктурой
-
-## Ключевые проекты
-
-### VPN и сеть
-
-- [pterovpn](https://github.com/unitdevgcc/pterovpn)  
-  VPN-проект для панельных  хостингов (деприкетед)
-- [Revoked](https://github.com/unitdevgcc/Revoked)  
-  VPN-направление с enterprise, ныне не поддерживается...
-- [Volter](https://github.com/org-fe/volter)  
-  VPN Для панелек/vps, позволяет эффективно обходить блокировки и многое другое)
-
-### Linux и low-level инструменты
-
-- [hookline](https://github.com/unitdevgcc/hookline)  
-  Минималистичный runtime tracer для Linux x86_64.
-- [NoHyper](https://github.com/unitdevgcc/NoHyper)  
-  Прототип low-level hypervisor-side debugger для x86_64.
-- [StreamPipe](https://github.com/unitdevgcc/StreamPipe)  
-  Edge pipeline: fixed-point rolling статистика, z-score anomaly detection, WAL, UDP alerts. (тупо описание)
-
-### Всякая всячена...dos и эксплойты 
-
-- [my-privatemethods](https://github.com/unitdevgcc/my-privatemethods)
-- [Nullpointer](https://github.com/unitdevgcc/Nullpointer)
-- [Adreno_PoC](https://github.com/unitdevgcc/Adreno_PoC)
-- [x16-PRos](https://github.com/unitdevgcc/x16-PRos) (fork)
 
 
-### Остальные проекты можете посмотреть на сайте [unitdev]https://unitdev.run/
+### Остальные проекты можете посмотреть на сайте https://unitdev.run/
 ## Технологии
 
 <p>
