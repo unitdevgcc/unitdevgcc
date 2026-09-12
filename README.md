@@ -1,39 +1,12 @@
 # c0redev / unitdevgcc
-
 <p align="center">
-  Низкоуровневая разработка, Linux, C, Go, системные инструменты и исследовательские проекты.
-</p>
-
-<p align="center">
-  <a href="https://github.com/unitdevgcc"><img src="https://img.shields.io/badge/GitHub-unitdevgcc-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://unitdev.run/"><img src="https://img.shields.io/badge/Website-unitdev.run-0A66C2?style=for-the-badge" alt="Website"></a>
 </p>
 
-## О себе
-
-Привет. Я `Maxkrya` (`c0redev`, `unitdev`, `nullpointer`).
 
 - Работал в : `RS-MEDIA MYARENA.RU, altpay, lendnodes. sundyhost`
-- Фокус: low-level разработка, сетевые инструменты, Linux runtime, R&D
-- Языки по приоритету:
-  <img src="https://img.shields.io/badge/C-tier%201-00599C?style=flat-square&logo=c&logoColor=white" alt="C tier 1">
-  <img src="https://img.shields.io/badge/Go-tier%202-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go tier 2">
-  <img src="https://img.shields.io/badge/Java-tier%203-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java tier 3">
-- Также использую:
-  <img src="https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white" alt="Zig">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/FASM-444444?style=flat-square&logo=assemblyscript&logoColor=white" alt="FASM">
-  <img src="https://img.shields.io/badge/NASM-555555?style=flat-square&logo=assemblyscript&logoColor=white" alt="NASM">
-  <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="GLSL">
 - Люблю low-level и embedded разработку
 - im fag fox 
-
-
-
-### Остальные проекты можете посмотреть на сайте https://unitdev.run/
-## Технологии
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
@@ -60,11 +33,4 @@
   <img src="https://img.shields.io/badge/Application_Software-374151?style=flat-square&logo=qt&logoColor=white" alt="Application software">
   <img src="https://img.shields.io/badge/Lighthearted_Joke_Programs-F59E0B?style=flat-square&logo=smile&logoColor=black" alt="Lighthearted joke programs">
 </p>
-
-## Контакты
-
-- Сайт: [unitdev.run](https://unitdev.run/)
-- GitHub: [@unitdevgcc](https://github.com/unitdevgcc)
-
----
 
