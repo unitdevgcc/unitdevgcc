@@ -4,7 +4,7 @@
 </p>
 
 
-- Работал в : `RS-MEDIA MYARENA.RU, altpay, lendnodes. sundyhost`
+- Работал в : `RS-MEDIA MYARENA.RU, altpay`
 - Люблю low-level и embedded разработку
 - im fag fox 
 
