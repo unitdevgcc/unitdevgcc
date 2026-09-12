@@ -19,8 +19,6 @@
   <img src="https://img.shields.io/badge/System_Programming-111111?style=flat-square&logo=probot&logoColor=white" alt="System Programming">
 </p>
 
-## Специализации
-
 <p>
   <img src="https://img.shields.io/badge/Reverse_Engineering-8B0000?style=flat-square&logo=radar&logoColor=white" alt="Reverse engineering">
   <img src="https://img.shields.io/badge/Embedded_Development-2E8B57?style=flat-square&logo=arduino&logoColor=white" alt="Embedded development">
